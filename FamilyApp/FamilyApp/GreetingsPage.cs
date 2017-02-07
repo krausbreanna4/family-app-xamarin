@@ -20,6 +20,7 @@ namespace FamilyApp
                 VerticalOptions = LayoutOptions.FillAndExpand,
                 HorizontalOptions = LayoutOptions.Center,
                 //VerticalOptions = LayoutOptions.Center,
+
                 Spacing = 3.0
 
             };
