@@ -31,7 +31,8 @@ namespace FamilyApp
                         {
                             Text = "Julie",
                             FontAttributes = FontAttributes.Bold,
-                            FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
+                            FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
+
                         },
                         new Span
                         {
@@ -48,7 +49,8 @@ namespace FamilyApp
                         {
                             Text = "Sadie. \n\n\n" + Environment.NewLine + "",
                             FontAttributes = FontAttributes.Bold,
-                            FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
+                            FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
+
                         },
                         new Span
                         {
@@ -58,7 +60,8 @@ namespace FamilyApp
                         {
                             Text = " Breanna.",
                             FontAttributes = FontAttributes.Bold,
-                            FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
+                            FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
+
                         },
                         new Span
                         {
